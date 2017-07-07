@@ -1,3 +1,12 @@
+---
+title: 代码审计之SQL注入：BlueCMSv1.6 sp1
+date: 2017-03-14 19:39:02
+tags: [代码审计,SQL注入]
+categories: Web安全
+---
+代码审计学习
+<!-- more -->
+
 # 工具及环境
 + bluecms v2.1 sp1
 链接：http://pan.baidu.com/s/1dFKLanR 密码：8v1c

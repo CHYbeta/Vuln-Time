@@ -6,6 +6,8 @@ categories: Web安全
 ---
 
 Exponent CMS是一款开源的CMS，其2.4.1版中存在sql注入
+本文首发于：[[CVE-2017-7991]Exponent CMS 2.4.1 SQL Injection分析](https://chybeta.github.io/2017/05/12/CVE-2017-7991-Exponent-CMS-2-4-1-SQL-Injection%E5%88%86%E6%9E%90/)
+
 <!-- more -->
 # 漏洞
 注入点在 /framework/modules/eaas/controllers/eaasController.php 中。如下：

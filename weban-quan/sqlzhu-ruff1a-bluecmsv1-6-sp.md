@@ -5,7 +5,7 @@ tags: [代码审计,SQL注入]
 categories: Web安全
 ---
 代码审计学习
-本文首发于：[]()
+本文首发于：[代码审计之SQL注入：BlueCMSv1.6 sp1](https://chybeta.github.io/2017/03/14/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E4%B9%8BSQL%E6%B3%A8%E5%85%A5%EF%BC%9ABlueCMSv1-6-sp1/)
 <!-- more -->
 
 # 工具及环境

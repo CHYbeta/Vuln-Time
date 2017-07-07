@@ -5,3 +5,5 @@
 gitbook地址：[漏洞时代](https://chybeta.gitbooks.io/vuln-time/content/)
 
 github地址：[Vuln-Time](https://github.com/CHYbeta/Vuln-Time)
+
+Author:[chybeta](https://chybeta.github.io)

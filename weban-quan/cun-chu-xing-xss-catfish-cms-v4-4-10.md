@@ -6,6 +6,8 @@ categories: Web安全
 ---
 Catfish(鲶鱼) CMS V 4.4.10 ：http://www.catfish-cms.com/
 
+本文首发于：[Catfish(鲶鱼) CMS V 4.4.10 留言板存储型XSS漏洞](https://chybeta.github.io/2017/07/11/Catfish-%E9%B2%B6%E9%B1%BC-CMS-V-4-4-10-%E7%95%99%E8%A8%80%E6%9D%BF%E5%AD%98%E5%82%A8%E5%9E%8BXSS%E6%BC%8F%E6%B4%9E/)
+
 # 审计
 
 在`...\application\index\controller\Index.php`中，定义了评论功能。代码如下；

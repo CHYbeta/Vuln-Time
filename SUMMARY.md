@@ -4,10 +4,14 @@
 
 ## Web安全
 
-* [SQL注入：BlueCMSv1.6 sp](weban-quan/sqlzhu-ruff1a-bluecmsv1-6-sp.md)
-* [SQL注入：Exponent CMS 2.4.1](weban-quan/sqlzhu-ru-ff1a-exponent-cms-2-4-1.md)
-* [SQL注入：Joomla! 3.7.0 ](weban-quan/sqlzhu-ru-ff1a-joomla-3-7-0.md)
-* [存储型XSS：Catfish CMS V4.4.10](weban-quan/cun-chu-xing-xss-catfish-cms-v4-4-10.md)
+* [SQL注入](weban-quan/sqlzhu-ru.md)
+  * [BlueCMSv1.6 sp](weban-quan/sqlzhu-ru/sqlzhu-ruff1a-bluecmsv1-6-sp.md)
+  * [Joomla! 3.7.0 com\_field组件](weban-quan/sqlzhu-ru/joomla-370.md)
+  * [Exponent CMS 2.4.1](weban-quan/sqlzhu-ru/sqlzhu-ru-ff1a-exponent-cms-2-4-1.md)
+  * [PHPCMS v9.6.0 wap模块注入](weban-quan/sqlzhu-ru/phpcms-v960-wapmo-kuai-zhu-ru.md)
+* XSS
+  * 存储型XSS
+    * [Catfish CMS V4.4.10 留言板](weban-quan/catfish-cms-v4410-liu-yan-ban.md)
 
 ## 二进制安全
 
